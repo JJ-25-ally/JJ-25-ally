@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI-driven testing and automation projects.
 - 📫 Connect with me: www.linkedin.com/in/jomol-abraham
-- 😄 
   
 
 <!---
